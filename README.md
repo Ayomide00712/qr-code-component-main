@@ -15,8 +15,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -26,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Ayomide00712/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Ayomide00712/qr-code-component-main.git]
+- Live Site URL: [https://ayomide00712.github.io/qr-code-component-main/]
 
 ## My process
 
@@ -41,22 +39,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 In this project i learnt how create a responsive QR-CODE-component using HTML and CSS. i learnt how to structure using html and implemnt styling for clean work.
 
 
-
-
 ### Continued development
 
 i want to learn how to structure my website well
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Website - [https://ayomide00712.github.io/qr-code-component-main/]
+- Frontend Mentor - [https://www.frontendmentor.io/profile/Ayomide00712]
+- Twitter - [https://x.com/AyomidePC]
 
 ## Acknowledgments
 
 This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
