@@ -20,7 +20,7 @@ body {
     justify-content: center;
     box-shadow: 4px 4px 8px red; */
     max-width: 360px ;
-    margin: 0 auto;
+    margin: 3px auto;
 
 }
 .bg{
@@ -32,8 +32,8 @@ body {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 .bg img{
-    width: 100%;
-    max-width: 300px;
+    
+    max-width: 100%;
     border-radius: 12px;
 }
 .attribution{
